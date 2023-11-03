@@ -2433,6 +2433,7 @@ private void showData(){
 ## Halaman Login
 Pada halamann login berisikan username dan password yang harus di input oleh admin dengan username dan password yang telah ditentukan untuk dapat masuk ke dalam sistem. jika inputan
 password atau username salah, maka akan memunculkan pesan "login gagal" jika username dan password benar maka akan memunculkan tampilan "login berhasil".
+
 ![image](https://github.com/PA-PBO-Kelompok-18/.github/assets/124419335/071a1557-2b77-4e90-8e63-cc39e42eeae1)
 
 ![image](https://github.com/PA-PBO-Kelompok-18/.github/assets/124419335/d294f079-f3b5-4278-96d3-964226be1714)
@@ -2442,11 +2443,13 @@ password atau username salah, maka akan memunculkan pesan "login gagal" jika use
 
 ## Halaman Menu Utama
 Pada halaman utama terdapat 3 menu yang dapat dipilih oleh admin untuk melihat data maupun merubah data. Admin dapat memilih salah satu menu yang ingin ia operasikan/jalankan sesuai dengan keperluannya.
+
 ![image](https://github.com/PA-PBO-Kelompok-18/.github/assets/124419335/ab923ad9-22a0-47c1-bd36-ffe062b87827)
 
 
 ## Halaman Menu Instruktur
 Pada halaman menu instruktur kita dapat melihat data-data instruktur yang mengajar pada kursus musik, khususnya dapat mengetahui nama instruktur berdasarkan bidang musik yang ia kuasai. 
+
 ![image](https://github.com/PA-PBO-Kelompok-18/.github/assets/124419335/5b241c90-d446-4c14-ab8c-ee155cad4e98)
 
 
@@ -2454,6 +2457,7 @@ Pada halaman menu instruktur kita dapat melihat data-data instruktur yang mengaj
 Pada halaman menu siswa, admin dapat melakukan tambah, edit atau menghapus data sesuai dengan keperluan dan kebutuhan, yang dimana pada meenu ini hanya nama dan jenis kelamin saja yang bisa diubah karena,
 setiap siswa hanya boleh memilik satu id siswa, jika siswa tersebut sudah dinyatan keluar dari kursus musik maka datanya bisa langsung dihapus,
 untuk mengedit hanya bisa mengedit nama dan jenis kelamin.
+
 ![image](https://github.com/PA-PBO-Kelompok-18/.github/assets/124419335/c798da24-bcdc-4d34-9a77-4b14c15ce9db)
 
 - Menambah Data Siswa
@@ -2482,6 +2486,7 @@ untuk mengedit hanya bisa mengedit nama dan jenis kelamin.
 
 ## Halaman Kursus Musik
 Pada halaman kursus musik, admin dapat mengedit jumlah siswa berdasarkan kondisi yang ada semisalnya siswa bertambah maupun ada siswa yang telah keluar dari kursus.
+
 ![image](https://github.com/PA-PBO-Kelompok-18/.github/assets/124419335/906fd1d8-8f33-4f00-a8d6-28dc98b1473d)
 
 - Mengedit Jumlah Siswa Pada Kursus Musik
